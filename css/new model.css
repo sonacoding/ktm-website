@@ -1,0 +1,27 @@
+.wapper{
+    width: 100%;
+    background-color: #fff;
+    padding: 30px 0;
+    margin-top: 50px;
+    color: #000;
+}
+
+.wapper .left{
+    width: 65%;
+    text-align: left;
+}
+
+.wapper .right{
+    width: 30%;
+}
+
+
+.wapper .mid-section .right img{
+    width: 100%;
+}
+
+.right img:hover{
+    transform: scale(1.1);
+    z-index: 2;
+}
+
